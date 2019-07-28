@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-GB" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-GB" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-GB" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1.0, maximum-scale=1">
+
+	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+
+	<link rel="pingback" href="http://blog.themexpose.com/xmlrpc.php">
+
+	<title>Newcon Blogger Template Documentation</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+<meta name="description" content="Newcon Blogger Template Documentation (Installation ), a step to step guide to help you out to set up your blog easy way. First of all, Thank you for Downl"/>
+<meta name="keywords" content="Blogger template documentation"/>
+<link rel="canonical" href="http://blog.themexpose.com/newcon-blogger-template-documentation/" />
+<link rel="publisher" href="https://plus.google.com/+Themexpose"/>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Newcon Blogger Template Documentation" />
+<meta property="og:description" content="Newcon Blogger Template Documentation (Installation ), a step to step guide to help you out to set up your blog easy way. First of all, Thank you for Downl" />
+<meta property="og:url" content="http://blog.themexpose.com/newcon-blogger-template-documentation/" />
+<meta property="og:site_name" content="Themexpose" />
+<meta property="article:section" content="Blogger Template Installation" />
+<meta property="article:published_time" content="2017-01-27T10:33:05+00:00" />
+<meta property="article:modified_time" content="2017-01-27T12:05:33+00:00" />
+<meta property="og:updated_time" content="2017-01-27T12:05:33+00:00" />
+<meta property="og:image" content="http://blog.themexpose.com/wp-content/uploads/2017/01/newcon-news-blogger-template.png" />
+<meta property="og:image:width" content="630" />
+<meta property="og:image:height" content="408" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/blog.themexpose.com\/","name":"Themexpose","potentialAction":{"@type":"SearchAction","target":"http:\/\/blog.themexpose.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Themexpose &raquo; Feed" href="http://blog.themexpose.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Themexpose &raquo; Comments Feed" href="http://blog.themexpose.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Themexpose &raquo; Newcon Blogger Template Documentation Comments Feed" href="http://blog.themexpose.com/newcon-blogger-template-documentation/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blog.themexpose.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='barcelona-font-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700%2C400italic&#038;ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/assets/css/bootstrap.min.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/assets/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vs-preloader-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/assets/css/vspreloader.min.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/assets/lib/owl-carousel/assets/owl.carousel.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/assets/lib/owl-carousel/assets/owl.theme.default.min.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-boxer-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/assets/css/jquery.fs.boxer.min.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='barcelona-stylesheet-css'  href='http://blog.themexpose.com/wp-content/themes/barcelona/style.css?ver=1.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-general_foundicons-css'  href='http://blog.themexpose.com/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/general_foundicons.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-social_foundicons-css'  href='http://blog.themexpose.com/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/social_foundicons.css?ver=4.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-shortcode-css'  href='http://blog.themexpose.com/wp-content/plugins/buttons-shortcode-and-widget//include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=4.9.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://blog.themexpose.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/js/html5.js?ver=4.9.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/js/retina.min.js?ver=4.9.3'></script>
+<link rel='https://api.w.org/' href='http://blog.themexpose.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.themexpose.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.themexpose.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.3" />
+<link rel='shortlink' href='http://blog.themexpose.com/?p=167' />
+<link rel="alternate" type="application/json+oembed" href="http://blog.themexpose.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://blog.themexpose.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F&#038;format=xml" />
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Newcon Blogger Template Documentation" />
+<meta property="og:url" content="http://blog.themexpose.com/newcon-blogger-template-documentation/" />
+<meta property="og:description" content="Newcon Blogger Template Documentation (Installation ), a step to step guide to help you out to set up your blog easy way. First of all, Thank you for Downloading our template if you haven’t done ye…" />
+<meta property="article:published_time" content="2017-01-27T10:33:05+00:00" />
+<meta property="article:modified_time" content="2017-01-27T12:05:33+00:00" />
+<meta property="og:site_name" content="Themexpose" />
+<meta property="og:image" content="http://blog.themexpose.com/wp-content/uploads/2017/01/newcon-news-blogger-template.png" />
+<meta property="og:image:width" content="630" />
+<meta property="og:image:height" content="408" />
+<meta property="og:locale" content="en_GB" /><style type="text/css">
+body { font-family: Montserrat, sans-serif; }
+h1,h2,h3,h4,h5,h6 { font-family: Montserrat, sans-serif; }
+</style>
+<style type="text/css">
+
+
+		 @media only screen and (min-width: 992px) { .sidebar-none .post-content, .sidebar-none .post-footer { width: 750px !important; } }
+::-moz-selection { background-color: #f2132d; }
+::selection { background-color: #f2132d; }
+</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+</head>
+<body class="post-template-default single single-post postid-167 single-format-standard boxed-layout barcelona-fimg-fw has-breadcrumb zoom-enabled">
+
+<nav class="navbar navbar-static-top navbar-dark mega-menu-dark header-style-b sticky-logo-inherit navbar-sticky has-nav-menu">
+
+	<div class="navbar-inner">
+
+		<div class="container">
+
+			
+			<div class="navbar-header">
+
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+					<span class="sr-only">Menu</span>
+					<span class="fa fa-navicon"></span>
+				</button><!-- .navbar-toggle -->
+
+								<button type="button" class="navbar-search btn-search">
+					<span class="fa fa-search"></span>
+				</button>
+				
+				
+				<a href="http://blog.themexpose.com/" class="navbar-logo">
+					<span class="logo-location-header clearfix">Themexpose</span>				</a>
+
+				
+			</div><!-- .navbar-header -->
+
+						<div id="navbar" class="navbar-collapse collapse">
+			<ul id="menu-main" class="navbar-nav nav"><li id="menu-item-292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292"><a href="/">Home</a></li>
+<li id="menu-item-293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a href="http://www.themexpose.com/">Free Blogger Templates</a></li>
+<li class="search"><button class="btn btn-search"><span class="fa fa-search"></span></button></li></ul>			</div><!-- .navbar-collapse -->
+			
+		</div><!-- .container -->
+
+	</div><!-- .navbar-inner -->
+
+</nav><!-- .navbar -->
+
+<div id="page-wrapper"><div class="breadcrumb-wrapper"><div class="container"><ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://blog.themexpose.com/">Home</a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://blog.themexpose.com/category/blogger-template-installation/" itemprop="item"><span itemprop="name">Blogger Template Installation</span></a><meta itemprop="position" content="2" /></li></ol></div></div>			<script>jQuery(document).ready(function($){ $('.fimg-inner').backstretch('http://blog.themexpose.com/wp-content/uploads/2017/01/newcon-news-blogger-template.png', {fade: 600}); });</script>
+			<div class="fimg-wrapper fimg-fw container">
+				<div class="featured-image">
+										<div class="fimg-inner">
+						<div class="vm-wrapper">
+							<div class="vm-middle">
+								<h1 class="post-title">Newcon Blogger Template Documentation </h1>
+<ul class="post-meta clearfix no-sep"><li class="post-date"><span class="fa fa-clock-o"></span>January 27, 2017</li><li class="post-author"><span class="fa fa-user"></span><a href="http://blog.themexpose.com/author/designhonk/" rel="author">ThemeXpose</a></li></ul>							</div>
+						</div>
+					</div>
+				</div>
+
+			</div><div class="container single-container">
+
+	<div class="row-primary sidebar-right clearfix has-sidebar">
+
+		<main id="main" class="main">
+
+			
+				<article id="post-167" class="post-167 post type-post status-publish format-standard has-post-thumbnail hentry category-blogger-template-installation category-blogger-templates">
+
+					
+										<section class="post-content">
+					<p><strong>Newcon Blogger Template Documentation (Installation ),</strong> a step to step guide to help you out to set up your blog easy way.</p>
+<p>First of all, Thank you for Downloading our template if you haven’t done yet you can get it from here : <a href="http://www.themexpose.com/2017/01/newcon-newsmagazine-responsive-blogger.html">Newcon Blogger Template</a> . You check the live demo through the button below and also Please Read this documentation carefully in order to set up your blog and please note that there’s no support for free users.</p>
+<p>We also Provide Blogger Template Installation Service. Our Installation service gives you a simple, quick and secure way of getting your template setup without hassle. We have created a service package that gives you everything you need to have your theme and your content setup in no time.</p>
+<p><a href="http://newcon-themexpose.blogspot.in/" class="medium square otw-button">Live Demo</a>   <a href="http://buy.themexpose.com/themes/newcon-template-professional-installation/" class="medium square otw-button">Installation service</a></p>
+<h2>Blogger Template Installation Steps:-</h2>
+<h3>1. Backup &amp; Uploading</h3>
+<ol>
+<li>Unzip the Template.zip file.</li>
+<li>On Blogger <strong>Dashboard</strong> Click <strong>Template</strong>.</li>
+<li>Click on <strong>Download Full Template</strong> to keep your old template.</li>
+<li>Click <strong>Browse…</strong> button. Find where the “olivia-full-version.xml” file location.</li>
+<li>Then Click <strong>Upload</strong>.</li>
+<li>Edit mobile Preview. (follow images)</li>
+</ol>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/1-768x404.png"><img class="size-full wp-image-49 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/1-768x404.png" alt="1-768x404" width="768" height="404" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/1-768x404.png 768w, http://blog.themexpose.com/wp-content/uploads/2016/08/1-768x404-300x157.png 300w, http://blog.themexpose.com/wp-content/uploads/2016/08/1-768x404-665x349.png 665w" sizes="(max-width: 768px) 100vw, 768px" /></a></p>
+<p>&nbsp;</p>
+<h3>2. Blog Setting</h3>
+<p>After installing the theme, there are minimum settings to make all widgets work fine in this template.</p>
+<ol>
+<li>On Blogger <strong>Dashboard</strong> Click <strong>Settings</strong>.</li>
+<li>Click <strong>Other</strong>.</li>
+<li>In <strong>Site Feed</strong> &gt; <strong>Allow Blog Feed</strong> Choose <strong>Full</strong>.</li>
+<li>Then Click <strong>Save settings</strong>.</li>
+</ol>
+<p>&nbsp;</p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/4-768x481.png"><img class="size-full wp-image-48 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/4-768x481.png" alt="4-768x481" width="768" height="481" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/4-768x481.png 768w, http://blog.themexpose.com/wp-content/uploads/2016/08/4-768x481-300x187.png 300w, http://blog.themexpose.com/wp-content/uploads/2016/08/4-768x481-665x416.png 665w" sizes="(max-width: 768px) 100vw, 768px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>3. Logo Setup</h3>
+<p>1. In your <a href="https://blogger.com/home">dashboard</a> Select &#8220;Layout&#8221;.</p>
+<p>2. Upload Your Logo Header : In You Blog (Header), Click on &#8220;Edit&#8221; and applicate all settings below :</p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/10.png"><img class="size-full wp-image-50 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/10.png" alt="10" width="513" height="554" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/10.png 513w, http://blog.themexpose.com/wp-content/uploads/2016/08/10-277x300.png 277w" sizes="(max-width: 513px) 100vw, 513px" /></a></p>
+<p>&nbsp;</p>
+<h3>4. Navigation Menu</h3>
+<h4>  4.1 Top Menu Setup</h4>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_1.jpg"><img class="size-full wp-image-168 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_1.jpg" alt="TOP_MENU" width="304" height="49" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_1.jpg 304w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_1-300x48.jpg 300w" sizes="(max-width: 304px) 100vw, 304px" /></a></p>
+<p>&nbsp;</p>
+<ul>
+<li>On Blogger <strong>Dashboard</strong> Click <strong>Layout</strong>.</li>
+<li>Click <strong>Edit</strong> on <strong>Top Navigation</strong> Widget.</li>
+<li>Change it according to your needs. Add name of the <strong>link Name</strong> and <strong>link url</strong> then click <strong>add Link</strong></li>
+<li>Click <strong>Save</strong>.</li>
+<li>Change the location of menu item using arrow down and arrow up Icon</li>
+<li>For More Information- Watch Video Below</li>
+</ul>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/6.png"><img class="size-full wp-image-52 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/6.png" alt="6" width="475" height="529" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/6.png 475w, http://blog.themexpose.com/wp-content/uploads/2016/08/6-269x300.png 269w" sizes="(max-width: 475px) 100vw, 475px" /></a></p>
+<p>&nbsp;</p>
+<h4></h4>
+<h4>4.2 Main Menu/DropDown</h4>
+<p style="text-align: center;"><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_2.jpg"><img class="size-full wp-image-169" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_2.jpg" alt="MAIN MENU" width="806" height="59" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_2.jpg 806w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_2-300x21.jpg 300w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_2-665x48.jpg 665w" sizes="(max-width: 806px) 100vw, 806px" /></a></p>
+<p>  On Blogger <strong>Dashboard</strong> Click <strong>Layout</strong>.</p>
+<ul>
+<li>Click <strong>Edit</strong> on <strong>Main Menu</strong> Widget.</li>
+<li>Change it according to your needs. Add name of the<strong> link Name</strong> and <strong>link url</strong> then click <strong>add Link</strong></li>
+<li>Click <strong>Save</strong>.</li>
+<li>To Add sub menu Item. You have to add “_”(underscore without quotes) before Menu item Link (<strong>example</strong> :  <b>_Left Sidebar</b>)</li>
+<li>Change the location of menu item using arrow down and arrow up Icon</li>
+<li>For More Information- Watch Video Below</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/2bfVSPu.png"><img class="size-full wp-image-170 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/2bfVSPu.png" alt="submenu" width="580" height="647" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/2bfVSPu.png 580w, http://blog.themexpose.com/wp-content/uploads/2017/01/2bfVSPu-268x300.png 268w" sizes="(max-width: 580px) 100vw, 580px" /></a></h4>
+<h3></h3>
+<p>&nbsp;</p>
+<h3>5. Social Top / Follow Us (Sidebar)/ Social Footer</h3>
+<div>Access your blog <b>Layout &gt; </b>click <b>Edit</b> link on <b>Social Top</b> <b><b>/ </b></b><strong>Follow Us (Sidebar)</strong> / <b>Social Footer </b>widget.</div>
+<div></div>
+<div><strong>Social Names: </strong>  <i>facebook, twitter, gplus, bloglovin, rss, youtube, skype, stumbleupon, tumblr, vine, stack-overflow, linkedin, dribbble, soundcloud, behance, digg, instagram, pinterest, delicious, codepen </i></div>
+<div></div>
+<div></div>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/7.png"><img class="size-full wp-image-53 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/7.png" alt="7" width="484" height="535" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/7.png 484w, http://blog.themexpose.com/wp-content/uploads/2016/08/7-271x300.png 271w" sizes="(max-width: 484px) 100vw, 484px" /></a></p>
+<p>&nbsp;</p>
+<p><strong> Example: </strong></p>
+<p>For Example if you have to add “facebook” icon then just add facebook in name of New site name section and below add url of that particular site.</p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/social-link-widget.jpg"><img class="size-full wp-image-63 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/social-link-widget.jpg" alt="social-link-widget" width="532" height="420" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/social-link-widget.jpg 532w, http://blog.themexpose.com/wp-content/uploads/2016/08/social-link-widget-300x236.jpg 300w" sizes="(max-width: 532px) 100vw, 532px" /></a></p>
+<h3></h3>
+<h3></h3>
+<h3>5. Featured Posts (TOP)</h3>
+<p>&nbsp;</p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_3.jpg"><img class="size-full wp-image-171 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_3.jpg" alt="featured" width="1142" height="399" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_3.jpg 1142w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_3-300x104.jpg 300w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_3-1024x357.jpg 1024w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_3-665x232.jpg 665w" sizes="(max-width: 1142px) 100vw, 1142px" /></a></p>
+<p>&nbsp;</p>
+<div>Access your blog <b>Layout &gt;</b> click <b>Add a Gadget</b> &gt; <b>HTML/JavaScript </b>on <b>Featured Posts </b>Section,<b></b><span id="result_box" class="short_text" lang="en"><span class="hps">and then add</span> <span class="hps">one of the following</span></span></div>
+<div></div>
+<div><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps">Random Posts: <b>&lt;span id=&#8221;random&#8221;&gt;&lt;/span&gt;</b></span></span> </span></span><br />
+<span id="result_box" class="short_text" lang="en"><span class="hps">Recent Posts: <b>&lt;span id=&#8221;recent&#8221;&gt;&lt;/span&gt;</b></span></span></div>
+<div><span id="result_box" class="short_text" lang="en"><span class="hps">Label / Tag <i>Ex</i>: <b>&lt;span id=&#8221;label&#8221; data-label=&#8221;Sports&#8221;&gt;&lt;/span&gt;</b></span></span></div>
+<div></div>
+<div></div>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/6vlZlaR.png"><img class="size-full wp-image-172 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/6vlZlaR.png" alt="6vlZlaR" width="577" height="641" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/6vlZlaR.png 577w, http://blog.themexpose.com/wp-content/uploads/2017/01/6vlZlaR-270x300.png 270w" sizes="(max-width: 577px) 100vw, 577px" /></a></p>
+<p>&nbsp;</p>
+<h3></h3>
+<h3>6.  Magazine Boxs Layout</h3>
+<div>Access your blog <b>Layout &gt;</b> click <b>Add a Gadget</b> &gt; <b>HTML/JavaScript </b>on <b>Box Layout / Box Layout 2</b><b> </b>Section,<b> </b><span id="result_box" class="short_text" lang="en"><span class="hps">and add the type of the desired box</span></span></div>
+<div> <a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_9.jpg"><img class="size-full wp-image-173 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_9.jpg" alt="Screenshot_9" width="682" height="119" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_9.jpg 682w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_9-300x52.jpg 300w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_9-665x116.jpg 665w" sizes="(max-width: 682px) 100vw, 682px" /></a></div>
+<div></div>
+<div></div>
+<div><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps"><strong>Types :</strong> <span style="color: #ff0000;"><b>{</b> <b>box,  carousel , videos</b> <b>}</b></span></span></span></span></span><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps"><span style="color: #ff0000;"><b>NOTE: </b></span>No gadget inserted in the sections must be empty, that can interfere with the proper functioning of widgets.<b></b></span></span></span></span></div>
+<div><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps"><b> </b></span></span></span></span><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps"><b> </b></span></span></span></span></div>
+<div><span id="result_box" class="short_text" lang="en"><span class="hps"><span id="result_box" class="short_text" lang="en"><span class="hps">Box:  <b>&lt;span id=&#8221;box&#8221; data-label=&#8221;Beauty&#8221;&gt;&lt;/span&gt;</b></span></span></span></span></div>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_4.jpg"><img class="size-full wp-image-174 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_4.jpg" alt="boxstyle" width="790" height="446" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_4.jpg 790w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_4-300x169.jpg 300w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_4-665x375.jpg 665w" sizes="(max-width: 790px) 100vw, 790px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Carousel: <b>&lt;span id=&#8221;carousel&#8221; data-label=&#8221;Sports&#8221;&gt;&lt;/span&gt; </b></p>
+<p>&nbsp;</p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_5.jpg"><img class="size-full wp-image-175 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_5.jpg" alt="Screenshot_5" width="784" height="342" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_5.jpg 784w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_5-300x130.jpg 300w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_5-665x290.jpg 665w" sizes="(max-width: 784px) 100vw, 784px" /></a></p>
+<p>&nbsp;</p>
+<p>Videos: <b>&lt;span id=&#8221;videos&#8221; data-label=&#8221;Video&#8221;&gt;&lt;/span&gt; </b></p>
+<p>&nbsp;</p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_6.jpg"><img class="size-full wp-image-176 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_6.jpg" alt="video" width="789" height="372" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_6.jpg 789w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_6-300x141.jpg 300w, http://blog.themexpose.com/wp-content/uploads/2017/01/Screenshot_6-665x313.jpg 665w" sizes="(max-width: 789px) 100vw, 789px" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Example:</strong></p>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/z9RTQMc.png"><img class="size-full wp-image-178 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/z9RTQMc.png" alt="z9RTQMc" width="585" height="646" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/z9RTQMc.png 585w, http://blog.themexpose.com/wp-content/uploads/2017/01/z9RTQMc-271x300.png 271w" sizes="(max-width: 585px) 100vw, 585px" /></a></p>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<h3>7. Widget</h3>
+<div>
+<h3>Access your blog <b>Layout &gt;</b> click <b>Add a Gadget</b> &gt; <b>HTML/JavaScript </b>on <b>Sidebar or Footer</b> section, you must place the following codes highlighted in blue below.</h3>
+<div class="box-code">
+<div></div>
+<div>
+<div>Recent Posts: <span style="color: #000080;"><b>&lt;span id=&#8221;recentposts&#8221;&gt;&lt;/span&gt;</b></span></div>
+<div> <a href="http://blog.themexpose.com/wp-content/uploads/2017/01/kls63S1.png"><img class="size-full wp-image-183 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/kls63S1.png" alt="kls63S1" width="578" height="642" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/kls63S1.png 578w, http://blog.themexpose.com/wp-content/uploads/2017/01/kls63S1-270x300.png 270w" sizes="(max-width: 578px) 100vw, 578px" /></a></div>
+<div class="separator"></div>
+<div></div>
+<div>Random Posts: <span style="color: #000080;"><b><b>&lt;span id=&#8221;randomposts&#8221;&gt;&lt;/span&gt;</b> </b> </span></div>
+<div> <a href="http://blog.themexpose.com/wp-content/uploads/2017/01/PbazdR9.png"><img class="size-full wp-image-180 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/PbazdR9.png" alt="PbazdR9" width="583" height="643" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/PbazdR9.png 583w, http://blog.themexpose.com/wp-content/uploads/2017/01/PbazdR9-272x300.png 272w" sizes="(max-width: 583px) 100vw, 583px" /></a></div>
+<div class="separator"></div>
+<div><b> </b></div>
+<div>Recent Comments: <span style="color: #000080;"><b>&lt;span id=&#8221;recentcomments&#8221;&gt;&lt;/span&gt;</b></span></div>
+<div></div>
+<div>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2017/01/ryIcqSz.png"><img class="size-full wp-image-181 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/ryIcqSz.png" alt="ryIcqSz" width="581" height="643" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/ryIcqSz.png 581w, http://blog.themexpose.com/wp-content/uploads/2017/01/ryIcqSz-271x300.png 271w" sizes="(max-width: 581px) 100vw, 581px" /></a></p>
+<div class="separator"></div>
+<p>&nbsp;</p>
+</div>
+<div></div>
+<p>After add, click save.</p>
+</div>
+</div>
+<p>&nbsp;</p>
+<h3>Facebook Page Plugin:</h3>
+<div class="box-code">&lt;center&gt;&lt;div class=&#8221;fb-page&#8221; data-href=&#8221;https://www.facebook.com/themexpose/&#8221; data-width=&#8221;360&#8243; data-small-header=&#8221;false&#8221; data-adapt-container-width=&#8221;true&#8221; data-hide-cover=&#8221;false&#8221; data-show-facepile=&#8221;true&#8221;&gt;&lt;/div&gt;&lt;/center&gt;</div>
+<div class="box-code"></div>
+<div class="box-code">Change this red url with your facebook page url.</div>
+<div class="box-code"></div>
+<h3 class="box-code"><strong> Sidebar Social widget :</strong></h3>
+<div class="box-code">
+<p>1. Go to Blogger Dashboard &gt; Layout &gt; Follow Us widget &gt; click on edit button</p>
+<p>2. Now copy the below mention code and paste into widget.</p>
+<p>3. Change the # with your social url and change the Number of followers too.</p>
+<p>4. Save It</p>
+<p><code>&lt;div class="social-count-plus"&gt;&lt;ul class="flat"&gt;&lt;li class="count-twitter"&gt;&lt;a class="icon" href="https://twitter.com/"&gt;&lt;/a&gt;&lt;span class="items"&gt;&lt;span class="count" style="color: #ffffff !important;"&gt;12356&lt;/span&gt;&lt;span class="label" style="color: #ffffff !important;"&gt;followers&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="count-facebook"&gt;&lt;a class="icon" href="https://www.facebook.com/"&gt;&lt;/a&gt;&lt;span class="items"&gt;&lt;span class="count" style="color: #ffffff !important;"&gt;194067&lt;/span&gt;&lt;span class="label" style="color: #ffffff !important;"&gt;likes&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class="count-googleplus"&gt;&lt;a class="icon" href="https://plus.google.com/"&gt;&lt;/a&gt;&lt;span class="items"&gt;&lt;span class="count" style="color: #ffffff !important;"&gt;419&lt;/span&gt;&lt;span class="label" style="color: #ffffff !important;"&gt;followers&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</code></p>
+<p>&nbsp;</p>
+</div>
+<h3>8.Comments System</h3>
+<div>
+<div>Access your blog <b>Layout &gt;</b> click <b>Edit</b> link<b> </b>on <b>Comments System</b> widget.</div>
+<div></div>
+<div><span id="result_box" class="short_text" lang="en" tabindex="-1"><span class="hps">Add one of the</span> <span class="hps">following provisions</span></span></div>
+<div></div>
+<p><span style="color: #000080;"><b>blogger</b></span> for blogger comments<br />
+<span style="color: #000080;"><b>facebook</b></span> for facebook comments<br />
+<span style="color: #000080;"><b>disqus</b></span> for disqus comments</p>
+<div class="separator"> <a href="http://blog.themexpose.com/wp-content/uploads/2017/01/x7yKEAU.png"><img class="size-full wp-image-184 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2017/01/x7yKEAU.png" alt="x7yKEAU" width="582" height="642" srcset="http://blog.themexpose.com/wp-content/uploads/2017/01/x7yKEAU.png 582w, http://blog.themexpose.com/wp-content/uploads/2017/01/x7yKEAU-271x300.png 271w" sizes="(max-width: 582px) 100vw, 582px" /></a></div>
+<div class="separator"></div>
+<div class="separator"></div>
+<div class="separator"></div>
+<div></div>
+</div>
+<div><b>NOTE 02:</b> To view the system Disqus comments, you need to follow the steps below.</div>
+<div></div>
+<div>
+<h3>Disqus Shortname</h3>
+<div>Access your blog <b>Layout &gt;</b> click <b>Edit</b> link<b> </b>on <b>Disqus Shortname</b> widget.</div>
+</div>
+<div></div>
+<div>
+<ul>
+<li>What you have to do is just add the shortname</li>
+</ul>
+</div>
+</div>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/22.png"><img class="size-full wp-image-67 aligncenter" src="http://blog.themexpose.com/wp-content/uploads/2016/08/22.png" alt="22" width="563" height="628" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/22.png 563w, http://blog.themexpose.com/wp-content/uploads/2016/08/22-268x300.png 268w" sizes="(max-width: 563px) 100vw, 563px" /></a></p>
+<div>
+<h3>9. Page Layout / No Sidebar / Left Sidebar</h3>
+<p><span id="result_box" class="" lang="en">To add these options just add <span class="">the codes</span> <span class="">below in the</span> <span class="">composition</span> <span class="">of the post!</span></span></p>
+</div>
+<div></div>
+<div><strong><span id="result_box" class="" lang="en"><span class="">Codes:  [no-sidebar]</span></span></strong></div>
+<div><strong>               [left-sidebar]</strong></div>
+<div></div>
+<div></div>
+<h3> <span id="result_box" class="" lang="en"><span class=""> </span></span>Image Example:</h3>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/23.png"><img class="alignnone size-full wp-image-68" src="http://blog.themexpose.com/wp-content/uploads/2016/08/23.png" alt="23" width="908" height="579" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/23.png 908w, http://blog.themexpose.com/wp-content/uploads/2016/08/23-300x191.png 300w, http://blog.themexpose.com/wp-content/uploads/2016/08/23-665x424.png 665w" sizes="(max-width: 908px) 100vw, 908px" /></a></p>
+<p>&nbsp;</p>
+<h3>10. Theme Customization</h3>
+<div>Access your blog <b>Template &gt; </b>click <b>Customize</b>.Here you can change the background, and apply pre-defined colors</div>
+<div>Clicking Advanced You will see the official option to change the Main Color</div>
+<p><a href="http://blog.themexpose.com/wp-content/uploads/2016/08/GCeJQD2.png"><img class="alignnone size-full wp-image-69" src="http://blog.themexpose.com/wp-content/uploads/2016/08/GCeJQD2.png" alt="GCeJQD2" width="1017" height="338" srcset="http://blog.themexpose.com/wp-content/uploads/2016/08/GCeJQD2.png 1017w, http://blog.themexpose.com/wp-content/uploads/2016/08/GCeJQD2-300x99.png 300w, http://blog.themexpose.com/wp-content/uploads/2016/08/GCeJQD2-665x221.png 665w" sizes="(max-width: 1017px) 100vw, 1017px" /></a></p>
+					</section><!-- .post-content -->
+					
+										<footer class="post-footer">
+
+						
+							<div class="post-vote row">
+
+		<div class="col col-left col-xs-6">
+			<button class="btn btn-vote btn-vote-up" data-nonce="cc79ec2140" data-type="up" data-vote-type="post">
+				<span class="fa fa-thumbs-up"></span>Vote Up			</button>
+		</div>
+
+		<div class="col col-right col-xs-6">
+			<button class="btn btn-vote btn-vote-down" data-nonce="cc79ec2140" data-type="down" data-vote-type="post">
+				<span class="fa fa-thumbs-down"></span>Vote Down			</button>
+		</div>
+
+	</div><!-- .post-vote -->
+			<div class="post-sharing">
+
+			<ul class="list-inline text-center">
+				<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F" target="_blank" title="Share on Facebook"><span class="fa fa-facebook"></span></a></li>
+				<li><a href="https://twitter.com/home?status=Newcon+Blogger+Template+Documentation+-+http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F" target="_blank" title="Share on Twitter"><span class="fa fa-twitter"></span></a></li>
+				<li><a href="https://plus.google.com/share?url=http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F" target="_blank" title="Share on Google+"><span class="fa fa-google-plus"></span></a></li>
+				<li><a href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F&amp;media=http://blog.themexpose.com/wp-content/uploads/2017/01/newcon-news-blogger-template.png&amp;description=Newcon+Blogger+Template+Documentation" target="_blank" title="Share on Pinterest"><span class="fa fa-pinterest"></span></a></li>
+				<li><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblog.themexpose.com%2Fnewcon-blogger-template-documentation%2F&amp;title=Newcon+Blogger+Template+Documentation&amp;summary=Newcon%C2%A0Blogger+Template+Documentation+%28Installation+%29%2C%C2%A0a+step+to+step+guide+to+help+you+out+to+set+up+your+blog+easy+way.+First+of+all%2C+Thank+you+for+Downloading+our+template+if+you+haven%E2%80%99t+done+yet+you+can+get+it+from+here+%3A+Newcon%C2%A0Blogger+Template%C2%A0.+You+check+the+live+demo+through+the+button+below+and+also+Please+%5B%26hellip%3B%5D&amp;source=" target="_blank" title="Share on Linkedin"><span class="fa fa-linkedin"></span></a></li>
+			</ul>
+
+		</div><!-- .post-sharing -->
+			<div class="author-box author-box-inverse">
+
+		<div class="author-image">
+			<img alt='' src='http://1.gravatar.com/avatar/a0388961081a4b3b9208ac7dd4cfb496?s=164&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a0388961081a4b3b9208ac7dd4cfb496?s=328&#038;d=mm&#038;r=g 2x' class='avatar avatar-164 photo' height='164' width='164' />		</div>
+
+		<div class="author-details">
+
+			<span class="author-name">
+				<a href="http://blog.themexpose.com/author/designhonk/" rel="author">
+					ThemeXpose				</a>
+			</span>
+
+			<span class="author-title">
+							</span>
+
+						<ul class="author-social list-inline">
+							</ul>
+		
+			<p class="author-desc">
+							</p>
+
+		</div><!-- .author-details -->
+
+	</div><!-- .author-box -->
+	<div class="pagination pagination-nextprev"><div class="row posts-nav"><div class="col col-xs-6"><a href="http://blog.themexpose.com/november-blogger-template-documentation/" rel="prev"><span class="fa fa-angle-left"></span> November Blogger Template Documentation</a></div><div class="col col-xs-6"><a href="http://blog.themexpose.com/cheerup-blogger-template-documentation/" rel="next"><span class="fa fa-angle-right"></span> CheerUp Blogger Template Documentation</a></div></div></div>	<div id="comments">
+
+		
+				<div class="comment-form-row row">
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/newcon-blogger-template-documentation/#respond" style="display:none;">Cancel Reply</a></small></h3>			<form action="http://blog.themexpose.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<div class="col-sm-12"><div class="form-group comment-form-comment"><textarea id="comment" class="form-control" name="comment" rows="10" placeholder="Comment *" required="required"></textarea></div></div><div class="col-sm-6"><div class="form-group comment-form-author"><input id="author" class="form-control" type="text" name="author" placeholder="Name *" value="" size="30" aria-required="true" required="required"></div></div>
+<div class="col-sm-6"><div class="form-group comment-form-email"><input id="email" class="form-control" type="email" name="email" placeholder="Email *" value="" size="30" aria-required="true" required="required"></div></div>
+<div class="col-sm-12"><div class="form-group form-submit"><button type="submit" name="submit" id="submit" class="btn btn-red-2 btn-submit-comment">Post Comment</button> <input type='hidden' name='comment_post_ID' value='167' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</div></div>			</form>
+			</div><!-- #respond -->
+			</div><!-- .comment-form-row -->
+		
+	</div><!-- #comments -->
+
+					</footer><!-- .post-footer -->
+					
+				</article>
+
+			
+		</main>
+
+		<aside id="sidebar" class="sidebar-sticky">
+
+	<div class="sidebar-inner">
+
+		<div id="custom_html-2" class="widget_text sidebar-widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://ashrink.com/ref/Themexpose&#10;" target="_blank"><img src="https://4.bp.blogspot.com/-qdAde-oV0HQ/Wx1ELzQEGCI/AAAAAAAAIOo/nzqGJ3Uyj4ggD6p8C7j0hFDwWrJbB_voACLcBGAs/s1600/adbanner.png" style="
+    width: 100%;
+"></a></div></div><div id="search-2" class="sidebar-widget widget_search"><form class="search-form" method="get" action="http://blog.themexpose.com/">
+				 <div class="search-form-inner"><div class="barcelona-sc-close"><span class="barcelona-ic">&times;</span><span class="barcelona-text">Close</span></div>
+				 	<div class="input-group">
+				        <span class="input-group-addon" id="searchAddon1"><span class="fa fa-search"></span></span>
+		                <input type="text" name="s" class="form-control search-field" autocomplete="off" placeholder="Search&hellip;" title="Search for:" value="" aria-describedby="searchAddon1" />
+		                <span class="input-group-btn">
+		                    <button type="submit" class="btn"><span class="btn-search-text">Search</span><span class="btn-search-icon"><span class="fa fa-search"></span></span></button>
+		                </span>
+	                </div>
+                </div>
+            </form></div><div id="recent-comments-2" class="sidebar-widget widget_recent_comments"><div class="widget-title"><h2 class="title">Recent Comments</h2></div><ul id="recentcomments"></ul></div><div id="categories-2" class="sidebar-widget widget_categories"><div class="widget-title"><h2 class="title">Categories</h2></div>		<ul>
+	<li class="cat-item cat-item-11"><a href="http://blog.themexpose.com/category/blogger-template-documentation/" >Blogger Template Documentation</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://blog.themexpose.com/category/blogger-template-installation/" >Blogger Template Installation</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://blog.themexpose.com/category/blogger-templates/" >Blogger Templates</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blog.themexpose.com/category/blogger-templates-2015/" >Blogger templates 2015</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://blog.themexpose.com/category/blogger-templates-2017/" >Blogger Templates 2017</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blog.themexpose.com/category/responsive-blogger-templates/" >Responsive Blogger Templates</a>
+</li>
+		</ul>
+</div>
+	</div><!-- .sidebar-inner -->
+
+</aside>
+	</div><!-- .row -->
+
+	<div class="posts-box posts-box-5 posts-box-related-posts"><div class="box-header archive-header has-title"><h2 class="title">Related Posts</h2></div><div class="posts-wrapper row"><div class="col-md-4 col-num-3 mas-item">		<article class="post-summary post-format-standard psum-featured">
+
+							<div class="post-image">
+
+					<a href="http://blog.themexpose.com/edward-stella-blogger-template-documentation/" title="Edward &#038; Stella Blogger Template Documentation">
+						<img width="384" height="253" src="http://blog.themexpose.com/wp-content/uploads/2019/05/Screenshot_5-384x253.jpg" class="attachment-barcelona-sm size-barcelona-sm wp-post-image" alt="" srcset="http://blog.themexpose.com/wp-content/uploads/2019/05/Screenshot_5-384x253.jpg 384w, http://blog.themexpose.com/wp-content/uploads/2019/05/Screenshot_5-294x194.jpg 294w, http://blog.themexpose.com/wp-content/uploads/2019/05/Screenshot_5-768x506.jpg 768w, http://blog.themexpose.com/wp-content/uploads/2019/05/Screenshot_5-1152x759.jpg 1152w" sizes="(max-width: 384px) 100vw, 384px" />					</a>
+
+				</div><!-- .post-image -->
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/edward-stella-blogger-template-documentation/">Edward &#038; Stella Blogger Template Documentation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+				<article class="post-summary post-format-standard psum-small">
+
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/seo-rocket-blogger-template-documenation/">Seo Rocket Blogger Template Documenation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+				<article class="post-summary post-format-standard psum-small">
+
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/clean-blogger-template-documenation/">Clean Blogger Template Documenation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+		</div><div class="col-md-4 col-num-3 mas-item">		<article class="post-summary post-format-standard psum-featured">
+
+							<div class="post-image">
+
+					<a href="http://blog.themexpose.com/beautiful-blogger-template-documentation/" title="Beautiful Blogger Template Documentation">
+						<img width="384" height="253" src="http://blog.themexpose.com/wp-content/uploads/2019/01/Screenshot_5-384x253.jpg" class="attachment-barcelona-sm size-barcelona-sm wp-post-image" alt="" srcset="http://blog.themexpose.com/wp-content/uploads/2019/01/Screenshot_5-384x253.jpg 384w, http://blog.themexpose.com/wp-content/uploads/2019/01/Screenshot_5-294x194.jpg 294w, http://blog.themexpose.com/wp-content/uploads/2019/01/Screenshot_5-768x506.jpg 768w, http://blog.themexpose.com/wp-content/uploads/2019/01/Screenshot_5-1152x759.jpg 1152w" sizes="(max-width: 384px) 100vw, 384px" />					</a>
+
+				</div><!-- .post-image -->
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/beautiful-blogger-template-documentation/">Beautiful Blogger Template Documentation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+				<article class="post-summary post-format-standard psum-small">
+
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/ashrink-com-review-scam-legit-payment-proof/">Ashrink.com Review : Scam or legit ? With payment Proof</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+				<article class="post-summary post-format-standard psum-small">
+
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/best-blogger-template-documentation/">Best Blogger Template Documentation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+		</div><div class="col-md-4 col-num-3 mas-item">		<article class="post-summary post-format-standard psum-featured">
+
+							<div class="post-image">
+
+					<a href="http://blog.themexpose.com/trueblog-blogger-template-documentation/" title="TrueBlog Blogger Template Documentation">
+						<img width="384" height="253" src="http://blog.themexpose.com/wp-content/uploads/2018/06/true-blog-blogger-template-384x253.png" class="attachment-barcelona-sm size-barcelona-sm wp-post-image" alt="" srcset="http://blog.themexpose.com/wp-content/uploads/2018/06/true-blog-blogger-template-384x253.png 384w, http://blog.themexpose.com/wp-content/uploads/2018/06/true-blog-blogger-template-294x194.png 294w" sizes="(max-width: 384px) 100vw, 384px" />					</a>
+
+				</div><!-- .post-image -->
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/trueblog-blogger-template-documentation/">TrueBlog Blogger Template Documentation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+				<article class="post-summary post-format-standard psum-small">
+
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/carolina-blogger-template-documentation/">Carolina Blogger Template Documentation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+				<article class="post-summary post-format-standard psum-small">
+
+			
+			<div class="post-details">
+
+				<h2 class="post-title">
+					<a href="http://blog.themexpose.com/the-blogger-template-documentation/">The Blogger Template Documentation</a>
+				</h2>
+
+				
+			</div><!-- .post-details -->
+
+		</article>
+
+		</div></div></div>
+</div><!-- .container -->
+<footer class="footer footer-dark">
+
+	<div class="container">
+
+				<div class="row footer-sidebars">
+						<div class="f-col col-md-4">
+							</div>
+						<div class="f-col col-md-4">
+							</div>
+						<div class="f-col col-md-4">
+							</div>
+					</div><!-- .footer-sidebars -->
+		
+				<div class="row footer-bottom has-logo">
+
+			<div class="f-col col-md-6">
+
+								<div class="logo-wrapper">
+
+					<a href="http://blog.themexpose.com/" class="logo-inverse">
+						<span class="logo-location-footer clearfix">Themexpose</span>					</a>
+
+				</div>
+				
+				
+			</div>
+
+			<div class="col col-md-6">
+							</div>
+
+		</div>
+		
+	</div><!-- .container -->
+
+</footer><!-- footer -->
+
+</div><!-- #page-wrapper -->
+
+<div class="search-form-full"><form class="search-form" method="get" action="http://blog.themexpose.com/">
+				 <div class="search-form-inner"><div class="barcelona-sc-close"><span class="barcelona-ic">&times;</span><span class="barcelona-text">Close</span></div>
+				 	<div class="input-group">
+				        <span class="input-group-addon" id="searchAddon2"><span class="fa fa-search"></span></span>
+		                <input type="text" name="s" class="form-control search-field" autocomplete="off" placeholder="Search&hellip;" title="Search for:" value="" aria-describedby="searchAddon2" />
+		                <span class="input-group-btn">
+		                    <button type="submit" class="btn"><span class="btn-search-text">Search</span><span class="btn-search-icon"><span class="fa fa-search"></span></span></button>
+		                </span>
+	                </div>
+                </div>
+            </form></div><script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/js/bootstrap.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/js/picturefill.min.js?ver=4.9.3'></script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/lib/owl-carousel/owl.carousel.min.js?ver=2.0.0'></script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/js/jquery.fs.boxer.min.js?ver=3.3.0'></script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-includes/js/comment-reply.min.js?ver=4.9.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var barcelonaParams = {"ajaxurl":"http:\/\/blog.themexpose.com\/wp-admin\/admin-ajax.php","post_id":"167","i18n":{"login_to_vote":"Please login to vote!"},"masonry_layout":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-content/themes/barcelona/assets/js/barcelona-main.js?ver=1.4.3'></script>
+<script type='text/javascript' src='http://blog.themexpose.com/wp-includes/js/wp-embed.min.js?ver=4.9.3'></script>
+
+</body>
+</html>
